@@ -1,12 +1,8 @@
 ---
 title: "Simple document"
-author: "null"
-date: "null"
-output:
-  html_document:
-    toc: yes
-    toc_float: yes
-    code_folding: hide
+author: "Ragyie Rawal"
+date: "2021-09-21"
+output: github_document
 ---
 
 ```{r}
